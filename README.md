@@ -5,6 +5,10 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## Crear un proyecto Angular
 
+Este es el primer TP del curso de angula.
+
+Alumno Daniel Chaves.
+
 Angular es un Framework de JavaScript de código abierto escrito en TypeScript. Su objetivo principal es desarrollar aplicaciones de una sola página. Google se encarga del mantenimiento y constantes actualizaciones de mejoras para este framework.
 
 
