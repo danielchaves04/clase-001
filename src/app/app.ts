@@ -8,5 +8,11 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly title = signal('clase-001');
+  subtitulo = 'Subtitulo';
+
+  text = 'Variable Interpolada';
+  saludar() {
+    alert(18 + 34);
+    this.text = 'NUEVO TEXTO 2';
+  }
 }
