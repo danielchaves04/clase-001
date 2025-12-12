@@ -5,16 +5,25 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## Crear un proyecto Angular
 
-Este es el primer TP del curso de Angulay.
-
-Alumno Daniel Chaves.
+Este es el primer TP del curso de Angular.
 
 Angular es un Framework de JavaScript de código abierto escrito en TypeScript. Su objetivo principal es desarrollar aplicaciones de una sola página. Google se encarga del mantenimiento y constantes actualizaciones de mejoras para este framework.
 
-## Pagina en ejecución:
+Ejecicio basado en los conocimientos adquiridos en la primer clase.
+
+## Página en ejecución:
 
 ![Screen](https://github.com/danielchaves04/clase-001/blob/master/public/Captura%20de%20pantalla%200001.png?raw=true)
 
+
+
+## Autor:
+Daniel Chaves
+
+## Curso:
+
+Desarrollo con Angular
+Unidad N°1: Conociendo Angular
 
 ## Development server
 
